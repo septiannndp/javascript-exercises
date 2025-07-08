@@ -11,13 +11,13 @@
 
 const birthYear = 1947;
 const thisYear = 1965;
-firstName = "Carlos";
-lastName = "Stevenson";
+const firstName = "Carlos";
+const lastName = "Stevenson";
 
-fullName = firstName + " " + lastName;
-age = thisYear - birthYear;
+const fullName = firstName + " " + lastName;
+const age = thisYear - birthYear;
 
-greeting = "Hello! My name is " + fullName + " and I am " + age + " years old.";
+const greeting = "Hello! My name is " + fullName + " and I am " + age + " years old.";
 
 console.log(greeting);
 
